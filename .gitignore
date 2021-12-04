@@ -1,0 +1,10 @@
+hola.txt
+carpeta1/conficencial.txt
+# el comentario inicia con el "#"
+#folders
+#carpeta1/ con diagonal al final, solo como buena practica
+
+#patterns
+# *.css    - Esto ignorará los archivos que cumplan el patrón.
+# archivo.ext* - TOdos los que cumplan el patron
+
